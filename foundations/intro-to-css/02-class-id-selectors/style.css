@@ -1,0 +1,21 @@
+/* Class selector */
+
+.pink_style {
+    background-color: rgb(255, 0, 255);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.twentyfourfont {
+    font-size: 24px;
+}
+
+#blue_font {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green_background {
+    background-color: rgb(0, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
